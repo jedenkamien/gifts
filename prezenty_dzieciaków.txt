@@ -1,0 +1,14 @@
+<Piotrus>
+	<urodzinki_21>
+		<dziadkowie_Kn>100</dziadkowie_Kn>
+		<wujki>50</wujki>
+	</urodzinki_21>
+</Piotrus>
+<Mati>
+	<rozne>
+		<a>200</a>
+		<b>150</b>
+		<c>50</c>
+		<d>100</d>
+	</rozne>
+</Mati>
